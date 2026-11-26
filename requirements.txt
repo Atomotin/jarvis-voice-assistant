@@ -1,0 +1,8 @@
+faster-whisper
+sounddevice
+numpy
+edge-tts
+pygame
+openwakeword
+requests
+pyautogui
